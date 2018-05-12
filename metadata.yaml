@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37121'
     url: http://www.gutenberg.org/2009/agents/37121
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34613#Woman-s-Work-in-English-FictionFrom-the-Restoration-to-the-Mid-Victorian-Period
 gutenberg_issued: '2010-12-09'
 gutenberg_type: Text
 identifiers:
